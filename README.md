@@ -12,7 +12,6 @@ As opções que aparecem fazem parte da configuração do plugin que será adici
 - **Published**: define se o plugin está ou não está publicado.
 - **--do--*** : permite selecionar o tipo de plugin desejado, nesse caso será selecionado o "**make_thumbs**".
 - **Description**: é um campo opcional para descrever a funcionalidade do plugin, sendo bastante útil quando há vários plugins do mesmo tipo.
+- **PLG_FABRIK_LIST_MAKE_THUMBS_ELEMENT_LABEL**: seleciona o elemento que vai armazenar os thumbs gerados, é necessário que seja um elemento do tipo "*fileupload*".
 
 <img src="/images/2.png" width="900px" />
-
-- **PLG_FABRIK_LIST_MAKE_THUMBS_ELEMENT_LABEL**: seleciona o elemento que vai armazenar os thumbs gerados, é necessário que seja um elemento do tipo "*fileupload*".
